@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Meltem ATAY
-======
+
 I am deeply passionate about AI theory and applications. 
 I am a PhD Candidate of Neuroscience and Neurotechnology at Middle East Technical University, Ankara, Turkey. 
 My thesis supervisors are [Uğur Halıcı](http://users.metu.edu.tr/halici/) and [Bülent Elibol](http://www.hastane.hacettepe.edu.tr/115.html?drid=146).  
