@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "G. Meltem Atay / Personal Websıte"
+title                    : "G. Meltem Atay / Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &description "Neuroscience and Neurotechnology PhD Candidate"
 url                      : https://meltemiatay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meltemiatay/meltemiatay.github.io"
