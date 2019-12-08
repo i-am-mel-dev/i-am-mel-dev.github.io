@@ -15,8 +15,8 @@ main:
  # - title: "Blog Posts"
   #  url: /year-archive/
   
-   - title: "SOCML2018 Report"
-     url: /SOCML2018/
+  #- title: "SOCML2018 Report"
+   #  url: /SOCML2018/
     
   - title: "CV"
     url: /cv/
