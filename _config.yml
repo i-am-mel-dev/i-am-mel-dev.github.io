@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "G. Meltem Atay"
-  avatar           : "meltem.jpg"
+  avatar           : "meltem.jpeg"
   bio              : "Neuroscience and Neurotechnology PhD Candidate @METU"
   location         : "Ankara"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ghqJW8sAAAAJ&hl=en"
   email            : "meltemiatay@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
