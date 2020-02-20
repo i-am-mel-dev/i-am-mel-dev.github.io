@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "G. Meltem Atay / Personal Website"
+title                    : "Meltem Atay / Personal Website"
 title_separator          : "-"
 name                     : &name "Meltem Atay"
 description              : &description "Neuroscience and Neurotechnology PhD Candidate"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "G. Meltem Atay"
+  name             : "Meltem Atay"
   avatar           : "meltem.jpeg"
   bio              : "Neuroscience and Neurotechnology PhD Candidate @METU"
   location         : "Ankara"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "GloriaMeltemi"
+  twitter          : "i_am_mel_dev"
   vine             :
   weibo            :
   xing             :
