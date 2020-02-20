@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "G. Meltem Atay"
+title: " Meltem Atay"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
