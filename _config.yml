@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meltem Atay / Personal Website"
+title                    : "Selim (Mel) Atay / Personal Website"
 title_separator          : "-"
-name                     : &name "Meltem Atay"
+name                     : &name "Selim (Mel) Atay"
 description              : &description "Neuroscience and Neurotechnology PhD Candidate"
 url                      : https://i-am-mel-dev.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meltem Atay"
+  name             : "Selim (Mel) Atay"
   avatar           : "meltem.jpeg"
   bio              : "Neuroscience and Neurotechnology PhD Candidate @METU"
   location         : "Ankara"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ghqJW8sAAAAJ&hl=en"
-  email            : "meltemiatay@gmail.com"
+  email            : "atay.m.selim@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "gmeltematay"
+  linkedin         : "selimatay"
   orcid            : "https://orcid.org/0000-0003-4985-2362"
   pinterest        :
   soundcloud       :
