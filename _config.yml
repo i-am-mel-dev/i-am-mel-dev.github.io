@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Selim (Mel) Atay / Personal Website"
+title                    : "Melvin Selim Atay / Personal Website"
 title_separator          : "-"
-name                     : &name "Selim (Mel) Atay"
+name                     : &name "Melvin Selim Atay"
 description              : &description "Neuroscience and Neurotechnology PhD Candidate"
 url                      : https://i-am-mel-dev.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Selim (Mel) Atay"
+  name             : "Melvin Selim Atay"
   avatar           : "meltem.jpeg"
   bio              : "Neuroscience and Neurotechnology PhD Candidate @METU"
   location         : "Ankara"
