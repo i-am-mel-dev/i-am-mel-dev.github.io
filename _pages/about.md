@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " Selim (Mel) Atay"
+title: " Melvin Selim Atay"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ I am deeply passionate about AI theory and applications.
 I am a PhD Candidate of Neuroscience and Neurotechnology at Middle East Technical University, Ankara, Turkey. 
 My thesis supervisors are [Uğur Halıcı](http://users.metu.edu.tr/halici/) and [Bülent Elibol](http://www.hastane.hacettepe.edu.tr/115.html?drid=146).  
 
-Contact: atay.m.selim@gmail.com
+Contact: atay.m.selim[at]gmail.com
 
 
 Research
