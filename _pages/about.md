@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My research focus is explainability of Deep learning.. 
+My research focus is explainability of Deep learning.
 I am a PhD Candidate of Neuroscience and Neurotechnology at Middle East Technical University, Ankara, Turkey.   
 
 Contact: selim.atay[at]metu.edu.tr
